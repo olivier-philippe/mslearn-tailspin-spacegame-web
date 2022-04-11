@@ -1,4 +1,7 @@
 
+[![Build Status](https://bdlyon.visualstudio.com/Space%20Game%20-%20pipeline/_apis/build/status/olivier-philippe.mslearn-tailspin-spacegame-web?branchName=main)](https://bdlyon.visualstudio.com/Space%20Game%20-%20pipeline/_build/latest?definitionId=12&branchName=main)
+
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
