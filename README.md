@@ -2,9 +2,7 @@
 
 # TEST OPE
 
-
-[![Build Status](https://bdlyon.visualstudio.com/Space%20Game%20-%20pipeline/_apis/build/status/olivier-philippe.mslearn-tailspin-spacegame-web?branchName=main)](https://bdlyon.visualstudio.com/Space%20Game%20-%20pipeline/_build/latest?definitionId=12&branchName=main)
-
+[![Build Status](https://dev.azure.com/bdlyon/Space%20Game/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=build-agent)](https://dev.azure.com/bdlyon/Space%20Game/_build/latest?definitionId=13&branchName=build-agent)
 
 
 # Contributing
